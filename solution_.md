@@ -1,5 +1,3 @@
-## Papers pivotal to our knowledge:
-
-MCC Van Dyke et al., 2019
-JT Harvey, Applied Ergonomics, 2002
-DW Ziegler et al., 2005
+The Rise of Coccidioides: Forces Against the Dust Devil Unleashed
+An analysis of the forces required to drag sheep over various surfaces
+The neurocognitive effects of alcohol on adolescents and college students
