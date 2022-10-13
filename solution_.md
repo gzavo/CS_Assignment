@@ -4,3 +4,5 @@ The neurocognitive effects of alcohol on adolescents and college students
 
 
 ![download](https://user-images.githubusercontent.com/113594035/195632383-766582bc-b6a3-4810-8fdb-c550608ef9ea.png)
+
+This graph shows that the beer consumption is increasing over time but we cannot make assumptions with this observation. 
