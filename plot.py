@@ -20,5 +20,3 @@ ax.tick_params(axis='x', **tkw)
 ax.legend(handles=[p1, p2])
 
 plt.show()
-
-plt.savefig('plot.png')
