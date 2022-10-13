@@ -5,7 +5,7 @@ The title of the following papers pivotal to our knowledge:
   - _The neurocognitive effects of alcohol on adolescents and college students_,DW Ziegler et al., 2005
   
 
-![CorrelationPlot](istherecorrelation.jng)
+![Alt text](istherecorrelation.jpg?raw=true "Title")
 
 
 In the figure we find data for WO and total beer consumption in the Netherlands for the years 2006-2018.
