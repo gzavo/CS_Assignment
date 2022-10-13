@@ -3,4 +3,5 @@
 * DW Ziegler et al., 2005 -> The neurocognitive effects of alcohol on adolescents and college students
 
 ![Plot](/plot.png)
+
 This plot displays the beer consumption in the Netherlands (blue) and the WO (red) over the years 2006 to 2018. Generally, both aspects increased over time.
