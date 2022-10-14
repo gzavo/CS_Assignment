@@ -2,3 +2,6 @@ MCC Van Dyke et al., 2019: A Review of Coccidioides Research, Outstanding Questi
 JT Harvey, Applied Ergonomics, 2002: An analysis of the forces required to drag sheep over various surfaces\
 DW Ziegler et al., 2005: The neurocognitive effects of alcohol on adolescents and college students
 
+![figure1](beer_consumption.jpg)
+
+A covariance is seen between the number of WO and the amount of beer consumption
