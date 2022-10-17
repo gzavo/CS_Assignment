@@ -1,3 +1,8 @@
+"""Plot some beer data.
+Author: Robbie Koevoets BSc
+UvAnetID: 12855537
+"""
+
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
