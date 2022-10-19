@@ -16,6 +16,6 @@ DW Ziegler et al., 2005:
 ### **Data visualisation**  
 
 
-![wo vs. beer consumption](/beer.png "WO vs beer consumption in the Netherlands").
+![wo vs. beer consumption](/beer.png "WO vs beer consumption in the Netherlands.")
 
 WO and beer consumption are plotted in the image above. What WO is supposed to mean remains unclear to me, but both clearly increase over time. WO has been experiencing a more less steady increase since 2006, while beer consumption has increased significantly since 2012/2013.
