@@ -5,4 +5,4 @@ The titles of the following papers were pivotal to our knowledge:
 
 ### There is a positive correlation between the total beer consumtion and the consumption of WO students over time in the Netherlands. 
 
-![NL beer consumption and WO](plot.png)
+![beer consumption](plot.png)
