@@ -4,4 +4,7 @@
 3. Ziegler, Daniel W., et al. "Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients." Chest 128.4 (2005): 194S.
 
 # Plot
-![correlation figure](istherecorrelation.jpg)
+![correlation figure](istherecorrelation.png)
+
+The diagram shows that there might be positive linear correlation between beer consumption and WO. 
+Indeed, calculating the correlation factor, which is 0.82, indicates a strong positive correlation between the two variables. This means that whenever one variable increases the other tends to increase too, but we can not comment on the causal relationship between them (correlation does not equal causation). 
