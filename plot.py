@@ -6,8 +6,6 @@ import pandas as pd
 data = pd.read_csv("istherecorrelation.csv", delimiter=';',decimal=',')
 
 # Create figure and twin axes
-#data.plot(x="Year", y=["WO [x1000]", "NL Beer consumption [x1000 hectoliter]"])
-
 fig, ax1 = plt.subplots()
 
 color = 'tab:red'
