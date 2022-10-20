@@ -3,6 +3,6 @@ The titles of the following papers were pivotal to our knowledge:
   * JT Harvey, Applied Ergonomics, 2002
   * DW Ziegler et al., 2005
 
-## There is a positive correlation between beer consumtion and WO over time in the Netherlands. 
+### There is a positive correlation between the total beer consumtion and the consumption of WO students over time in the Netherlands. 
 
-![image]{plot.png}
+![NL beer consumption and WO](plot.png)
