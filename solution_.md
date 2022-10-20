@@ -6,5 +6,5 @@
 # Plot
 ![correlation figure](istherecorrelation.png)
 
-The diagram shows that there might be positive linear correlation between beer consumption and WO. 
+The diagram shows that there might be positive linear correlation between beer consumption and WO.  
 Indeed, calculating the correlation factor, which is 0.82, indicates a strong positive correlation between the two variables. This means that whenever one variable increases the other tends to increase too, but we can not comment on the causal relationship between them (correlation does not equal causation). 
