@@ -27,4 +27,4 @@ fig.tight_layout()  # otherwise the right y-label is slightly clipped
 plt.show()
 
 #Save the plot
-fig.savefig('istherecorrelation.jpg', dpi=300)
+fig.savefig('istherecorrelation.png', dpi=300)
