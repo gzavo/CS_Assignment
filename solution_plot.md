@@ -50,6 +50,8 @@ print("The data is visually presented in the saved plot 'wine&others and beer co
 plt.show()
 
 
+!wine&others and beer correlation_plot.png](https://github.com/SuperAileen/CS_Assignment_Dan_Dong_14989093/blob/main/wine%26others%20and%20beer%20correlation_plot.png
+)
 
 
 
