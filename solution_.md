@@ -9,7 +9,7 @@ An analysis of the forces required to drag sheep over various surfaces.
 The neurocognitive effects of alcohol on adolescents and college students
 
 
-## Plot from the dataset "istherecorrelation.csv", with DPI=300, visualized representatively 
+## Plot from the dataset "istherecorrelation.csv", with DPI=300. 
 ![Scatter Plot of WO vs. NL Beer Consumption](no_correlation_plot.png)
 
 ### Plot interpretation 
