@@ -1,4 +1,4 @@
-###<p style = 'text-align:center'> Solutions for Computational Sciences Toolbox Assignment </p>
+<p style = 'text-align:center'> Solutions for Computational Sciences Toolbox Assignment </p>
 
 Here the titles: 
 - **MCC Van Dyke et al., 2019**: 
