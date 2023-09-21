@@ -1,5 +1,6 @@
 MCC Van Dyke et al., 2019
 There were two articles I found:
+
 Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
  
 The Rise of Coccidioides: Forces Against the Dust Devil Unleashed
