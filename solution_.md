@@ -21,4 +21,5 @@ plt.title('Correlation Between WO, NL Beer Consumption and year')
 plt.savefig('wo&beer_plot.png')
 
 plt.show()
-![Between 2006 and 2018, the variable 'wo' showed a steady increase. However, beer consumption experienced fluctuations from 2006 to 2012, followed by a rapid growth thereafter](wo&beer_plot.png)
+![](wo&beer_plot.png)
+Between 2006 and 2018, the variable 'wo' showed a steady increase. However, beer consumption experienced fluctuations from 2006 to 2012, followed by a rapid growth thereafter
