@@ -3,7 +3,6 @@
 * JT Harvey, Applied Ergonomics, 2002
 * DW Ziegler et al., 2005
 
-![alt text](./wine_consumption.png)
-
 ## Data Interpretation
+![alt text](./wine_consumption.png)
 Based on the graph I have plotted, wine and beer consumption in the Netherlands is gradually increasing over the years.
