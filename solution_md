@@ -25,3 +25,4 @@ plt.savefig('cwo&beer_plot.png')
 
 # display the image
 plt.show()
+![Between 2006 and 2018, the variable 'wo' showed a steady increase. However, beer consumption experienced fluctuations from 2006 to 2012, followed by a rapid growth thereafter](cwo&beer_plot.png)
