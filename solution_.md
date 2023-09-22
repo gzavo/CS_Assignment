@@ -10,7 +10,7 @@ Here is a plot based on a [CSV file](istherecorrelation.csv) from this repositor
 ![Plot](istherecorrelation.csv_plot.png)
 
 ## Comment
-While it is true that W0 increases linearly with the years while beer consumption fluctuates, it is clear that the overall trend is positive. It is also worth noting that W0 and beer consumption values are a couple orders of magnitude apart.
+While it is true that W0 increases linearly with the years while beer consumption fluctuates, it is clear that the overall trend is positive. It is also worth noting that W0 and beer consumption values are an order of magnitude apart.
 
 ## Code
 This is the code used for the [plot](istherecorrelation.csv_plot.png):
