@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Sep 22 17:45:25 2023
-
-@author: Aleks
-"""
 # Paper Titles
 
 - Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
