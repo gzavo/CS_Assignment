@@ -21,7 +21,7 @@ ax2.tick_params(axis='y', labelcolor=color)
 plt.title('Correlation Between WO, NL Beer Consumption and year')
 
 # save the image
-plt.savefig('cwo&beer_plot.png')
+plt.savefig('wo&beer_plot.png')
 
 # display the image
 plt.show()
