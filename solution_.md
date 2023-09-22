@@ -22,4 +22,4 @@ plt.savefig('wo&beer_plot.png')
 
 plt.show()
 ![](wo&beer_plot.png)
-Between 2006 and 2018, the 'WO' showed a steady increase. However, 'NL Beer consumption' experienced fluctuations from 2006 to 2012, followed by a rapid growth thereafter
+· Between 2006 and 2018, the 'WO' showed a steady increase. However, 'NL Beer consumption' experienced fluctuations from 2006 to 2012, followed by a rapid growth thereafter
