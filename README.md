@@ -31,4 +31,4 @@ The Correlation's are as follows
 We can clearly see that tehre is a strong correlation between all three variables.
 
 This can also clearly be see in the following plot:
-![BeerConsumption.Png]
+![Plot](BeerConsumption.Png)
