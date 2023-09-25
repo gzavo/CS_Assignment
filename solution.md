@@ -18,7 +18,7 @@
 
 
 - The correlation between WO and Beef consumption in Dutch  
-![WO and Beef](https://github.com/LeeTrybull/CS_Assignment/blob/main/WO_beef_relationship.png)
+![WO and Beef](https://github.com/LeeTrybull/CS_Assignment/blob/main/WO_beef_relationship.png?raw=true)
 
 
 
