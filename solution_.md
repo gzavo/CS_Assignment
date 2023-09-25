@@ -19,5 +19,5 @@ plt.xlabel('Year')
 plt.ylabel('Value')
 plt.title('NL Beer Consumption Over Years')
 plt.show()
-![](NL Beer Consumption.png)
+![]([NL Beer Consumption.png](https://github.com/ShengGao67/CS_Assignment/blob/main/NL%20Beer%20Consumption.png))
 From 2006 to 2018, the annual consumption of beer in the Netherlands has generally shown an upward trend.However, after 2012, the growth rate accelerated much more significantly.
