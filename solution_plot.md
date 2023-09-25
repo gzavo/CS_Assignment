@@ -61,6 +61,4 @@ print("The data is visually presented in the saved plot 'Correlation between WO 
 plt.show()
 
 
-![wine&others and beer correlation_plot.png](https://github.com/SuperAileen/CS_Assignment_Dan_Dong_14989093/blob/main/wine%26others%20and%20beer%20correlation_plot.png
-)
-
+![Correlation between WO Education and Beer Consumption in NL.png](Correlation between WO Education and Beer Consumption in NL.png)
