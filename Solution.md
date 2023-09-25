@@ -21,4 +21,4 @@ The blue dots represent individual data points, each labeled with the correspond
 
 The graph shows that across the years, the correlation between WO and NL Beer consumption, measured by the Pearson coefficient increases. This suggests a positive linear relationship between these two variables. As WO increases, NL Beer consumption tends to increase as well. 
 
-The code is available at: 
+The code is available at: https://github.com/shreyaraghavendra/CS_Assignment/blob/main/Assignment-GitHub.ipynb
