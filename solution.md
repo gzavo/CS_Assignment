@@ -22,6 +22,10 @@
 - The correlation between WO and Beef consumption in Dutch  
 ![WO and Beef](https://github.com/LeeTrybull/CS_Assignment/blob/main/WO_beef_relationship.png?raw=true)
 
+    According to the graph, the beef consumption and the wine & other (WO) both showed increasing trend in previous decade,
+    Statistically speaking, they have positive correlation which means that the correlation coefficient is positive 
+    which is greater than 0. 
+
 
 
 
