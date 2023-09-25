@@ -10,7 +10,7 @@
 3. DW Ziegler et al., 2005  
 
 
-- The correlation between WO and Beef consumption in Dutch
+- The correlation between WO and Beef consumption in Dutch  
 ![WO and Beef]((https://github.com/LeeTrybull/CS_Assignment/blob/main/WO_beef_relationship.png)https://github.com/LeeTrybull/CS_Assignment/blob/main/WO_beef_relationship.png)
 
 
