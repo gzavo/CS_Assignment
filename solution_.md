@@ -1,5 +1,3 @@
-The title of the following papers pivotal to our knowledge:
-
 
 MCC Van Dyke et al., 2019
 Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
@@ -11,12 +9,14 @@ DW Ziegler et al., 2005
 The neurocognitive effects of alcohol on adolescents and college students
 
 
-Create one plot from the dataset "istherecorrelation.csv", with DPI=300. 
-The objective is to visualize the data in a way that you consider representative. 
-Include the resulting plot image in the markdown file and add a few lines of interpretation on the data.
 ![image](https://github.com/IzaHollander/CS_Assignment/assets/59646031/70e660f5-1ab8-4644-b7d9-eeb6fb647b9a)
 
-Commit and push these two files to your fork.
-Create a pull request for me to this (the original) repo. 
-(Hint: you can use the "New pull request" button and then do a "compare across forks").
-You are done, I will see the pull requests and check your work.
+The plot visualizes the correlation between 'WO [x1000]' and 'NL Beer consumption [x1000 hectoliter]' for each year.
+
+It seems that as 'WO [x1000]' increases, 'NL Beer consumption [x1000 hectoliter]' also tends to increase. 
+
+Based on the visual representation and correlation coefficient, further analysis can be conducted to understand the factors influencing beer consumption in the Netherlands. For example, an analysis of the data points with the highest and lowest values on the plot may reveal interesting insights about the relationship between wine production and beer consumption in specific years.
+
+The custom X-axis labels improve the readability of the plot by providing context for each data point, making it easier to identify trends and outliers.
+
+Overall, this plot provides a valuable visual representation of the data, allowing for a preliminary assessment of the correlation between wine production and beer consumption in the Netherlands over time. Further statistical analysis and domain-specific knowledge can help uncover the underlying factors and implications of this relationship.
