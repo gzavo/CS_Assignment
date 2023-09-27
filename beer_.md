@@ -1,4 +1,4 @@
-Below is the figure plotted with data from the istherecorrelation.csv file.
+Below is the figure plotted with data from the ```istherecorrelation.csv``` file.
 ![figure1](https://github.com/LoesBijman/CS_Assignment/blob/main/beer_fig.png)
 
 We can see a positive correlation between the number of students and the beer consumption in the Netherlands between the years 2006 and 2008. 
