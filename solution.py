@@ -33,5 +33,3 @@ plt.plot(array[:,1], beta * array[:,1] + alpha, color="lightblue")
 plt.title("Correlation between WO students and beer consumption in NL")
 
 fig = plt.savefig('/Users/francescocatania/Correlation.png', dpi=300)
-
-fig.savefig('/Users/francescocatania/graph.png')
