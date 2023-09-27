@@ -9,7 +9,7 @@ DW Ziegler et al., 2005
 The neurocognitive effects of alcohol on adolescents and college students
 
 
-![image](corr_consumption_WO.png)
+![image](Figure_1.png)
 
 The plot visualizes the correlation between 'WO [x1000]' and 'NL Beer consumption [x1000 hectoliter]' for each year.
 It seems that as 'WO [x1000]' increases, 'NL Beer consumption [x1000 hectoliter]' also tends to increase, especially from 2013 onwards.
