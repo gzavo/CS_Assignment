@@ -10,3 +10,7 @@ Harvey, J. T., et al. "An analysis of the forces required to drag sheep over var
 
 Ziegler, Daniel W., et al. "Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients." Chest 128.4 (2005): 194S.
 
+![Beer](https://github.com/kaleem-01/CS_Assignment/blob/main/beer.png)https://github.com/kaleem-01/CS_Assignment/blob/main/beer.png)
+
+
+Beer consumption rates in the Netherlands were comparable from 2006 to 2012 and have since been on the rise.
