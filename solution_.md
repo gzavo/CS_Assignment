@@ -13,4 +13,4 @@
 |WO [x1000]|1|0.82|
 |NL Beer consumption [x1000 hectoliter]|0.82|1|
 
-From the above scatter plot and correlation matrix, we can observe that there is a positive correlation between the given two parameters. Additional data is required to determine the relation between the parameters.
+From the above scatter plot and correlation matrix, we can observe that there is a positive correlation between the given two parameters. Additional data is required to determine the relation between the two parameters.
