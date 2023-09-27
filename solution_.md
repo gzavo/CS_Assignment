@@ -5,14 +5,6 @@ Fantastic yeasts and where to find them: the hidden diversity of dimorphic funga
 An analysis of the forces required to drag sheep over various surfaces
 
 Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
-```python
-    import matplotlib.pyplot as plt
-    import numpy as np
-    import pandas as pd
-    import plotter as Plotter
-```
 
-``` python
->>> my_plot = Plotter('istherecorrelation.csv')
->>> my_plot.save('data.png')
-```
+## Figure showing the beer consumption in the Netherlands between 2008-2016
+![NL beer consumption](NL beer consumption.png)
