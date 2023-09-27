@@ -26,4 +26,3 @@ plt.tight_layout()
 
 # show plot
 plt.show()
-plt.savefig("correlation.png")
