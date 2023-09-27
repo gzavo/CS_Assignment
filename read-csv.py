@@ -21,11 +21,8 @@ b = sns.lineplot(data, x='Year', y='NL Beer consumption [x1000 hectoliter]', hue
 c = sns.scatterplot(data, x = 'WO [x1000]', y='NL Beer consumption [x1000 hectoliter]', ax=ax[1,0], legend=False)
 d = sns.regplot(data, x = 'WO [x1000]', y='NL Beer consumption [x1000 hectoliter]', ax=ax[1,1])
 
-#corr = data_wo_beer.corr()
-#corr = pd.DataFrame.corr(method='callable',data_wo, data_beer)
-#heatmap = sns.heatmap(corr, cmap="coolwarm")
-
 plt.suptitle("University Graduates vs. Beer Consumption in the Netherlands")
 fig.tight_layout(pad=2.0)
 
-plt.show()
+#plt.show()
+plt.savefig(f"{dir}\data_plots.jpg", dpi=300)
