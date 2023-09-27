@@ -5,4 +5,3 @@
 3) Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
 
 ![lineplot_correlations](correlation.png)
-This plot shows correlations between the amount of WO students and beer consumption.
