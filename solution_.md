@@ -6,3 +6,5 @@ An analysis of the forces required to drag sheep over various surfaces
 
 Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
 
+![Figure_1](Figure_1.png) 
+![Figure_2](Figure_2.png) 
