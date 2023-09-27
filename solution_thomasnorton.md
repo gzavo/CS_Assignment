@@ -5,6 +5,9 @@
 ![1695851226964](image/solution_thomasnorton/1695851226964.png)
 
 
+It seems that there is some correlation at the end of the graph, as it follows quite a linear line. However, at the beginning the WO consumption is seems to increase without much of a significant change for the NL Beer consumption. There is also a couple years both values drop.
+
+
 
 ```python
 import matplotlib as plt
