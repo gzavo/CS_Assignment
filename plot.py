@@ -16,5 +16,5 @@ plt.plot(df["Year"], df["NL Beer consumption [x1000 hectoliter]"])
 plt.xlabel("Year")
 plt.ylabel("x1000 hectoliters")
 plt.title("Beer Consumption in the Netherlands")
-plt.show()
+plt.savefig("beer.png", dpi=300)
 
