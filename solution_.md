@@ -17,4 +17,4 @@ On the x-axis: years from 2006 to 2018 including.
 
 On the y-axis: WO plotted in <span style="color:red">red</span>, beer consumption plotted in <span style="color:blue">blue</span>.
 
-Data points were joined using a line plot (instead of a scatter plot) to visualize the trend. Based on both the visualization and the calculation of Spearman's rank correlation $\sigma = 0.8022$
+Data points were joined using a line plot (instead of a scatter plot) to visualize the trend. Based on both the visualization and the calculation of Spearman's rank correlation $\sigma = 0.8022$ we can say that there is indeed a positive correlation between WO and NL beer consumption - a strong one, although not a perfect one.
