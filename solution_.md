@@ -4,3 +4,5 @@
 - Ziegler, Daniel, Tellez, M., Hess, D. and Dipprey, T. (2004). 'Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients.' Critical Care. 8. 1-2. 10.1186/cc2525.
 
 # Plots
+
+![alt text](https://github.com/mboyan/CS_Assignment/blob/main/data_plots.png?raw=true)
