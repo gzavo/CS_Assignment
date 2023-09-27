@@ -7,4 +7,4 @@ An analysis of the forces required to drag sheep over various surfaces
 Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
 
 ## Figure showing the beer consumption in the Netherlands between 2008-2016
-![NL_beer_consumption](NL_beer_consumption.png)
+![combined](combined.png)
