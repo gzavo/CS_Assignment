@@ -1,5 +1,6 @@
 ## The title of the following papers pivotal to our knowledge:
 - MCC Van Dyke et al., 2019
+Note : I find two papers from this author in 2019.
 "Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens"
 "The Rise of Coccidioides: Forces Against the Dust Devil Unleashed"
   
