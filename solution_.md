@@ -9,4 +9,4 @@ print("Hello World!")
 
 # Plots
 
-![alt text](https://github.com/mboyan/CS_Assignment/blob/main/data_plot.png?raw=true)
+![alt text](https://github.com/mboyan/CS_Assignment/blob/main/data_plots.png?raw=true)
