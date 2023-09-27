@@ -9,7 +9,7 @@ DW Ziegler et al., 2005
 The neurocognitive effects of alcohol on adolescents and college students
 
 
-![image](corr_plot.png)
+![image](corr_plott.png)
 
 The plot visualizes the correlation between 'WO [x1000]' and 'NL Beer consumption [x1000 hectoliter]' for each year.
 
