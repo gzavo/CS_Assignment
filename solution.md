@@ -1,5 +1,7 @@
-Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
-An analysis of the forces required to drag sheep over various surfaces
-The neurocognitive effects of alcohol on adolescents and college students
+* Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
+* An analysis of the forces required to drag sheep over various surfaces
+* The neurocognitive effects of alcohol on adolescents and college students
 
 ![Correlation](plot.png)
+
+According to the provided data, it appears there is a correlation between the number of WO students and the beer consumption in the Netherlands between 2006 and 2018.
