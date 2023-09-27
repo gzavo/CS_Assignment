@@ -1,7 +1,7 @@
-MCC Van Dyke et al., 2019 - Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens \\
-MCC Van Dyke et al., 2019 - The Rise of Coccidioides: Forces Against the Dust Devil Unleashed
-JT Harvey, Applied Ergonomics, 2002 - An analysis of the forces required to drag sheep over various surfaces
-DW Ziegler et al., 2005 - The neurocognitive effects of alcohol on adolescents and college students
+MCC Van Dyke et al., 2019 - Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens <br>
+MCC Van Dyke et al., 2019 - The Rise of Coccidioides: Forces Against the Dust Devil Unleashed<br>
+JT Harvey, Applied Ergonomics, 2002 - An analysis of the forces required to drag sheep over various surfaces<br>
+DW Ziegler et al., 2005 - The neurocognitive effects of alcohol on adolescents and college students<br>
 ![1](https://github.com/toschka123/CS_Assignment/assets/97736572/1e830e1d-780c-4534-ba22-ed9a52c4c572)
 
 In this plot we can see a growing trend in both the WO and the Beer consumption per year. Sadly since the scales are so different the growth is not very visible.
