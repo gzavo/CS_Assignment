@@ -6,8 +6,9 @@
 ### DW Ziegler et al., 2005
 
 # Part 2
-<img src="https://github.com/SanjhanaB/Acadamic_Skills/assets/146237504/d6c37dfc-d67e-4f2d-99bc-2ae61ee6252e" width="300" height="300"/>
-<img src="https://github.com/SanjhanaB/Acadamic_Skills/assets/146237504/807ba27e-5341-4415-855d-724a91305e57" width="300" height="300"/>
+![image](https://github.com/SanjhanaB/CS_Assignment/assets/146237504/e4e42065-c02e-47b0-a3b0-e1a5d8f793ef)
+![image](https://github.com/SanjhanaB/CS_Assignment/assets/146237504/41422c56-6437-4cfc-a464-aede3add9fc5)
+
 
 In the first image one can see the relation between the beer consumption of students throughout the years. 
 Between the years 2016 and 2018, there is a exponential growth in beer consumption. 
