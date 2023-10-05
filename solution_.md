@@ -7,4 +7,5 @@ JT Harvey, Applied Ergonomics, 2002
 DW Ziegler et al., 2005
 
 From an analysis of the numbers of the amount of University students in the netherlands, and the amount of beer consumption, we can find
-
+![Correlation](Correlation_proof.png)
+Which does suggest a strong correlation between the two numbers. 
