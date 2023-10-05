@@ -1,4 +1,6 @@
-# These are very important papers that contribute to our knowledge!
+# Minimalistic homework!
+
+*These are very important papers that contribute to our knowledge!*
 
 """
 MCC Van Dyke et al., 2019
