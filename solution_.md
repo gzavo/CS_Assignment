@@ -8,4 +8,4 @@ JT Harvey, Applied Ergonomics, 2002: An analysis of the forces required to drag 
 
 DW Ziegler et al., 2005: The neurocognitive effects of alcohol on adolescents and college students
 
-![image info](pictures/correlation.png)
+![image info](correlation.png)
