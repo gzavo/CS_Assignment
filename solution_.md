@@ -7,3 +7,4 @@ Student ID: 15830608
 
 ![Alt text](https://github.com/sofiatete/CS_Assignment/blob/main/wo_beer.png)
 
+The WO dataset follows a linear upward trend, whereas the NL dataset shows more variation, particularly between 2006 and 2012. After 2012, both datasets show steady increases, with the NL consumption rising more sharply.
