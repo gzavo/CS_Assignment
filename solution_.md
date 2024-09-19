@@ -4,4 +4,5 @@ StudentID: 15385337
 * JT Harvey, Applied Ergonomics, 2002
 * DW Ziegler et al., 2005
 
+![Correlation Plot](correlation_plot.png)
 
