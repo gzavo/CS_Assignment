@@ -8,6 +8,6 @@ JT Harvey, Applied Ergonomics, 2002: An analysis of the forces required to drag 
 
 DW Ziegler et al., 2005: The neurocognitive effects of alcohol on adolescents and college students
 
-![image info](correlation.png)
+Interpretation: There is some correlation between the two variables (beer consumption and WO). We can observe that for most years both variables increase. An exception is the period between the years 2010 and 2013 when the values of beer consumption do not increase but remain almost stable.
 
-Interpretation: There is some correlation between the two variables (beer consumption and WO). We can observe that for most years both variables increase. An exception is the period between the years 2010 and 2013 when the values of beer consumption do not increase but remain stable.
+![image info](correlation.png)
