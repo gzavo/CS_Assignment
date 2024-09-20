@@ -5,4 +5,4 @@
 
 ![WO and Beer consumption plot](./WO_Beer_Consumption_Plot.png)
 
-From the plot we can see that even though the WO(higher education population) is increasing steadily over the time period 2006-2018, the beer consumption in the Netherlands remains almost constant with very slight fluctuations. There appears to be no correlation between the rise in higher education and beer consumption during that time period. 
+The blue line representing people with higher education has been increasing steadily for the whole time period 2006-2018. In contrast, the green line depicting beer consumption in the Netherlands is more variable. Some fluctuations are evident between 2006 and 2013, but after 2014 it has an upward trend. The two lines suggest that while both metrics rise overall, the beer consumption trend lags slightly behind the WO increase in terms of growth consistency.
