@@ -12,4 +12,4 @@ Below is the graph showing the WO student numbers and beer consumption in the Ne
 ![Line](https://github.com/user-attachments/assets/40220498-1823-4475-8aac-b7479f0c12c8)
 
 The plot below illustrates the linear correlation between the WO student numbers and beer consumption. The Pearson correlation coefficient between the two variables is *R* = 0.8181 (0.7≤*R*<1). Therefore, a strong correlation is assumed between variables. 
-![Corr](https://github.com/user-attachments/assets/0c15b458-92d1-4f84-a01d-1555364246eb)
+![Corr](https://github.com/user-attachments/assets/95b5cb2b-1473-4c42-b41d-83df2915ef72)
