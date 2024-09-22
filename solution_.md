@@ -8,5 +8,7 @@ student number: 14495716
 
 [3]DW Ziegler et al., 2005: The neurocognitive effects of alcohol on adolescents and college students. 
 
+
+
 Below is the graph showing the WO student numbers and beer consumption in the Netherlands from 2006 to 2018. 
 ![Line](https://github.com/user-attachments/assets/40220498-1823-4475-8aac-b7479f0c12c8)
