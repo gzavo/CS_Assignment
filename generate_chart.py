@@ -25,4 +25,6 @@ plt.xlabel('WO [x1000]')
 plt.ylabel('NL Beer consumption [x1000 hectoliter]')
 plt.text(0.05, 0.95, f'Correlation: {correlation:.2f}', transform=plt.gca().transAxes, fontsize=12, verticalalignment='top', bbox=dict(boxstyle="round,pad=0.3", facecolor="white", alpha=0.5))
 plt.tight_layout()
+
+plt.savefig('chart.png', dpi=300)
 plt.show()
