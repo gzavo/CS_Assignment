@@ -22,4 +22,4 @@ DW Ziegler et al., 2005: The neurocognitive effects of alcohol on adolescents an
 
 Assuming that WO refers to the amount of WO students in the netherlands:
 
-There is a strong correlation between the amount of students and the consumption of beer in the Netherlands, suggesting that students are a major consumer, and as their numbers increase, so will beer consumption.
+There is a strong correlation between the amount of students and the consumption of beer in the Netherlands. Causatality cannot be directly claimed from these numbers but with a bit of contextual knowledge we can confidently suggest that students are a major consumer of beer, and as their numbers increase, so will beer consumption.
