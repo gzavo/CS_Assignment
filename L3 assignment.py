@@ -13,7 +13,7 @@ plt.rcParams['figure.dpi'] = 300
 fig, ax1 = plt.subplots()
 color = 'tab:blue'
 ax1.set_xlabel('Year')
-ax1.set_ylabel('NL Beer consumption [hectoliter]', color=color)
+ax1.set_ylabel('NL Beer consumption [x1000 hectoliter]', color=color)
 ax1.plot(xdata, y1data, color=color)
 ax1.tick_params(axis='y', labelcolor=color)
 
