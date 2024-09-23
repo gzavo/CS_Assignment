@@ -10,4 +10,3 @@ Relevant Papers:
 Results & Interpretation
 ![image info](./chart.png)
 blah blah blah blah blah blah
-
