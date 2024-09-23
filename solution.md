@@ -6,4 +6,6 @@ Title of the papers:
 - DW Ziegler et al., 2005
 </p>
 Graph
+![image](https://github.com/user-attachments/assets/d4f43ccb-2fb6-411e-b055-46be00160aa6)
+
 
