@@ -16,3 +16,6 @@ Student number: 15257630
   -CORRELATION OF CONTINUOUS CARDIAC OUTPUT MEASURED BY A PULMONARY ARTERY CATHETER VERSUS IMPEDANCE CARDIOGRAPHY IN VENTILATED PATIENTS
 
   
+![image](https://github.com/user-attachments/assets/a930dc35-aca4-4436-8a7a-9dc45d82560c)
+
+There seems to be some correlation between the WO and beer consumption in the Netherlands. However, this most likely is just a coincidence. More research is needed to find a causation between these two things.
