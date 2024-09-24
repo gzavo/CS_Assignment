@@ -9,3 +9,6 @@ studentID: 13203088
 **The neurocognitive effects of alcohol on adolescents and college students**
 - Zeigler, D. W., Wang, C. C., Yoast, R. A., Dickinson, B. D., McCaffree, M. A., Robinowitz, C. B., & Sterling, M. L. (2005). The neurocognitive effects of alcohol on adolescents and college students. Preventive medicine, 40(1), 23-32.
 
+The following image shows the growth of beer consumption in The Netherlands and the amount of university students, both standardized. The data indicates that from 2015 - 2018 Dutch beer consumption grew at a faster pace than the student population.
+
+![Fig 1: A comparison of growth between Dutch college students and overall beer consumption in The Netherlands (2008 - 2018) ](./foo.png)
