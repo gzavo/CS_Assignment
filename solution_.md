@@ -5,4 +5,5 @@ Papers titles:
 - Correlation of continuous cardiac output measured by a pulmonary artery catheter versus impedance cardiography in ventilated patients
 
 Plot description:
-The plot shows that beer consumption in NL has been continuously increasing from 2006. However, while the increase from 2006 to 2012 was slight, from 2012 to 2018 beer consumption has seen a steep rise.
+The plot shows the amount of beer consumption from 2006 to 2018 both for WO (university students in The Netherlands) as well as total NL consumption.
+It can bee seen that the consumption for university students had a constant increase over the years, while the total NL consumption had a slight decrease between 2009 and 2012, and then started increasing.
