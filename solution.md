@@ -7,7 +7,7 @@
 - JT Harvey, Applied Ergonomics, 2002
 - DW Ziegler et al., 2005
 
-### Python Code for Analysis:
+### Python Code:
 
 ```python
 import pandas as pd
@@ -17,7 +17,7 @@ df = pd.read_csv("istherecorrelation.csv", delimiter=';', decimal=',')
 df.head()
 df['Year'] = df['Year'].astype(int)
 
-# Create a plot with dual y-axes
+# Plot with dual y-axes
 fig, axis_1 = plt.subplots(figsize=(10, 5), dpi=300)
 
 color = 'tab:red'
@@ -26,7 +26,6 @@ axis_1.set_ylabel('WO [x1000]', color=color)
 axis_1.plot(df['Year'], df['WO [x1000]'], color=color, marker='o', label='WO [x1000]')
 axis_1.tick_params(axis='y', labelcolor=color)
 
-# Create a second y-axis for beer consumption
 axis_2 = axis_1.twinx()
 color = 'tab:green'
 axis_2.set_ylabel('NL Beer consumption [x1000 hectoliter]', color=color)
@@ -42,5 +41,5 @@ fig.savefig('wo_beer_consumption.png', dpi=300)
 ![wo_beer_consumption](https://github.com/user-attachments/assets/983e389b-42d3-4676-a074-cfdeea8c723e)
 
 The graph compares WO (Number of graduates) in the Netherlands (red line) and Beer consumption in hectoliters (green line) from 2006 to 2018.
-The number of graduates increased steadily from 2006 to 2018, while beer consumption remained mostly unchanged.
-Hence, no obvious correlation between the two variables over time can be deduced.
+The number of graduates increased steadily from 2006 to 2018, while beer consumption remained mostly unchanged from 2006 to 2013, after which it had a steady increase.
+Hence, no obvious direct correlation between the two variables over time can be deduced, or at least not a strong one.
