@@ -8,6 +8,7 @@ Pivotal papers:
 ## Correlation between WO count and beer consumption
 
 The following plot shows the normalised annual WO count and beer consumption in the Netherlands.
+
 ![](wo_vs_beer_consumed.png)
 
 While the two data sources appear particularly correlated in this plot, it is important to note that there are likely to be confounding factors at play. In particular, both variables are likely to increase with population growth. 
