@@ -35,3 +35,6 @@ plt.title('Number of graduated students (WO) vs Beer Consumption in NL (2006-201
 fig.tight_layout()
 plt.show()
 fig.savefig('wo_beer_consumption.png', dpi=300)
+
+![wo_beer_consumption](https://github.com/user-attachments/assets/92ff518e-5ec0-410b-a2f7-d0f0134f8e32)
+
