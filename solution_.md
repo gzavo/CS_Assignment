@@ -1,5 +1,5 @@
 ### Student Information
-Name: Ernani Hazbolatow
+Name: Ernani Hazbolatow \\
 UvA Studentnumber: 14272210 
 
 ### Title of Papers
