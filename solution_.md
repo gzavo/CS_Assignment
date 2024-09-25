@@ -5,5 +5,5 @@
 - The neurocognitive effects of alcohol on adolescents and college students
 
 # Is there a correlation
-![plot](correlation.png)
+![plot](plot.png)
 As we can see in the plot above, there definitely seems to be some correlation. Especially when the WO gets over 250000 the increase in bear consumption mirrors exponential growth.
