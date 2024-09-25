@@ -7,4 +7,4 @@
 
 With a correlation of **r = 0.82**, I regret to inform the general public that there is indeed a correlation between the amount of beer consumed in the Netherlands and the number of enrolled students. Dark days ahead! Or not? It seems that the timeframe we are looking at may very well influence the results. It seems that the data of the earlier years would result in a higher correlation thatn the more recent years.
 
-![The Graph]https://github.com/mdmg01/CS_Assignment/blob/61a7e9932682a203060866df6354d4940bc687d9/WOvsBeerNL.jpg
+![The Graph](https://github.com/mdmg01/CS_Assignment/blob/61a7e9932682a203060866df6354d4940bc687d9/WOvsBeerNL.jpg)
