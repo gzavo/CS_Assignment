@@ -3,4 +3,6 @@ MCC Van Dyke et al., 2019, The Rise of Coccidioides: Forces Against the Dust Dev
 JT Harvey, Applied Ergonomics, 2002, Using the methods of ergonomics to develop a training program for people with multiple sclerosis
 DW Ziegler et al., 2005, Development of an ergonomic risk assessment tool
 
-![academic skills assignment 3](https://github.com/user-attachments/assets/c58a23f3-19f5-4aeb-b5ed-7f68c19259a7)
+![image](https://github.com/user-attachments/assets/d6463d84-9af1-450f-a54e-bacce41eefa3)
+
+The plot provides a visual representation of the relationship between the year, beer consumption and WO (probably number of MAster students). Seemingly the trend of more WO students follows a similar trajectory at beer consumption per year, which is growing.
