@@ -10,8 +10,8 @@
 
 ### Plotting task:
 
-5. Create one plot from the dataset "istherecorrelation.csv", with DPI=300. The objective is to visualize the data in a way that you consider representative. Include the resulting plot image in the markdown file and add a few lines of interpretation on the data.
-6. Commit and push these two files to your fork.
-7. Create a pull request for me to this (the original) repo. (Hint: you can use the "New pull request" button and then do a "compare across forks").
-8. You are done, I will see the pull requests and check your work.
+![Correlation between WO students in the Netherlands and Beer Consumption](solution_plot.png)
+
+The above plot shows that there is a positive correlation between the number of students following WO courses in the Netherlands and the total beer consumption (hectoliter = 100 liters). This means, as the number of students in WO increases, the total beer consumption of the country increases!
+
 
