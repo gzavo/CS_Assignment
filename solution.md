@@ -6,22 +6,32 @@
 import pandas as pd
 import matplotlib.pyplot as plt
 
-data = pd.read_csv('istherecorrelation.csv', delimiter=';', decimal=',')
-data['Year'] = data['Year'].astype(int)
-fig, ax1 = plt.subplots(figsize=(10, 6), dpi=300)
-color = 'tab:blue'
-ax1.set_xlabel('Year')
-ax1.set_ylabel('WO [x1000]', color=color)
-ax1.plot(data['Year'], data['WO [x1000]'], color=color, marker='o', label='WO [x1000]')
-ax1.tick_params(axis='y', labelcolor=color)
-ax2 = ax1.twinx()
-color = 'tab:orange'
-ax2.set_ylabel('NL Beer consumption [x1000 hectoliter]', color=color)
-ax2.plot(data['Year'], data['NL Beer consumption [x1000 hectoliter]'], color=color, marker='x', label='Beer Consumption')
-ax2.tick_params(axis='y', labelcolor=color)
-plt.title('Comparison of WO and Beer Consumption in NL (2006-2018)')
+# Load the data from CSV
+# Ensure that the file path is correct and delimiter and decimal are set properly
+df = pd.read_csv("istherecorrelation.csv", delimiter=';', decimal=',')
+
+df.head()
+
+df['Year'] = df['Year'].astype(int)
+
+# Create a plot with dual y-axes
+fig, axis_1 = plt.subplots(figsize=(10, 5), dpi=300)
+
+color = 'tab:red'
+axis_1.set_xlabel('Year')
+axis_1.set_ylabel('WO [x1000]', color=color)
+axis_1.plot(df['Year'], df['WO [x1000]'], color=color, marker='o', label='WO [x1000]')
+axis_1.tick_params(axis='y', labelcolor=color)
+
+# Create a second y-axis to plot beer consumption
+axis_2 = axis_1.twinx()
+color = 'tab:green'
+axis_2.set_ylabel('NL Beer consumption [x1000 hectoliter]', color=color)
+axis_2.plot(df['Year'], df['NL Beer consumption [x1000 hectoliter]'], color=color, marker='x', label='Beer Consumption')
+axis_2.tick_params(axis='y', labelcolor=color)
+
+plt.title('Number of graduated students (WO) vs Beer Consumption in NL (2006-2018)')
 
 fig.tight_layout()
 plt.show()
-
 fig.savefig('wo_beer_consumption.png', dpi=300)
