@@ -9,4 +9,4 @@
 
 # Assignment
 ![Plot 1](plot.png)
-As you can see, there is some correlation between the two datasets, especially in the later years where both have risen. However, no definitive conclusions or assumptions can be made based on this plot. The correlation is weak, inconsistent, and there is no evidence of causation without further research.
+As you can see there is some correlation between the two datasets, especially in the last years you can see that both rice. However, no definitive conclusions or assumptions can be made based on this plot. The correlation is weak, inconsistent, and there is no evidence of causation without further research.
