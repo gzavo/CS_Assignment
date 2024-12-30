@@ -2,9 +2,9 @@
 15794717
 
 ## Pivotal Papers
-MCC Van Dyke et al., 2019
-JT Harvey, Applied Ergonomics, 2002
-DW Ziegler et al., 2005
+- Fantastic yeasts and where to find them: the hidden diversity of dimorphic fungal pathogens
+- An analysis of the forces required to drag sheep over various surfaces
+- The neurocognitive effects of alcohol on adolescents and college students
 
 ## Data Visualization and Analysis
 ![Correlation between WO and Beer Consumption](correlation_plot.png)
