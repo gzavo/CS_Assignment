@@ -7,7 +7,6 @@
 This plot shows the growth of both 
 - the number of students in WO in the NL
 - the quantity of consumed beer in the Netherlands
-
 across 2006-2018.
 
 >&emsp; I divided the values by their minimum so they are plotted on the same scale, I imagine there's a better looking way to do that and would love to have your thoughts.
