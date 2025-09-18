@@ -14,5 +14,6 @@ To complete the lecture, carry out the following tasks (i.e., homework):
   - DW Ziegler et al., 2005
 5. Create one plot from the dataset "istherecorrelation.csv", with DPI=300. The objective is to visualize the data in a way that you consider representative. Include the resulting plot image in the markdown file and add a few lines of interpretation on the data.
 6. Commit and push these two files to your fork.
-7. Create a pull request for me to this (the original) repo. (Hint: you can use the "New pull request" button and then do a "compare across forks").
+7. Create a pull request for me to this (the original) repo. Add your studentID in the title or description of the pull request. 
+  (Hint: one way is to use the "New pull request" button and then do a "compare across forks").
 8. You are done, I will see the pull requests and check your work.
