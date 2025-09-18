@@ -2,5 +2,3 @@
 *   JT Harvey, Applied Ergonomics, 2002
 *   DW Ziegler et al., 2005
 ![alt text](beerNL.png "plot")
-![][id]
-[id]:beerNL.png "plot"
