@@ -1,0 +1,19 @@
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+data = pd.read_csv("istherecorrelation.csv", sep=';')
+
+x = data['Year']  
+y = data['NL Beer consumption [x1000 hectoliter]']  
+
+plt.figure(dpi=300)  
+plt.plot(x, y, marker='o', linestyle='-', color='b', label='Beer Consumption')
+plt.title('Beer Consumption Over the Years')
+plt.xlabel('Year')
+plt.ylabel('NL Beer consumption [x1000 hectoliter]')
+plt.legend()
+plt.grid()
+
+plt.savefig("correlation_plot.png")
+plt.show()
