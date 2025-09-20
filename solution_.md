@@ -5,6 +5,5 @@ Some papers:
 "An analysis of the forces required to drag sheep over various surfaces", JT Harvey, Applied Ergonomics, 2002,  
 "The neurocognitive effects of alcohol on adolescents and college student", DW Ziegler et al., 2005.  
   
-Create one plot from the dataset "istherecorrelation.csv", 
-with DPI=300. The objective is to visualize the data in a way that you consider representative. 
-Include the resulting plot image in the markdown file and add a few lines of interpretation on the data.
+In the image below you will see a scatterplot for the number of university students and the consumption of beer over time. There is a weak positive correlation. When the number of students increase, the consumption of beer tends to increase as well, but not on a clear line.
+<img src="correlation_plot.png" width="400">
